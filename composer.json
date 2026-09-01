@@ -1,0 +1,13 @@
+{
+    "name": "keys/digital-shop",
+    "description": "Digital goods shop demo (Steam-like top-up)",
+    "type": "project",
+    "require": {
+        "php": ">=8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
