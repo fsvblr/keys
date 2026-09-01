@@ -20,7 +20,8 @@ php database/migrate.php
 
 3. Configure web server document root to `public/`.
 4. Open the site in a browser.
-5. Checking the purchase for the item **"Пополнение Steam 500 ₽".**
+5. Check the purchase for the **catalog's** item **"Пополнение Steam 500 ₽".**
+6. Check the purchase with a **coupon** (WELCOME10 - 10% or GG500 - 500 RUB) in the "Steam Top-up" section.
 
 ## How the key itself is issued exactly once
 
